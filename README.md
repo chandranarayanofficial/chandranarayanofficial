@@ -1,7 +1,5 @@
 ### Hi there, I'm Chandra Narayan 👋
 
-<!--
-**chandranarayanofficial/chandranarayanofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -9,4 +7,4 @@ Here are some ideas to get you started:
 - 👯 I’m looking to work with other experts ...
 - 🥅 2023 Goals: Explore Deeper into the Neural Networks ...
 - ⚡ Fun fact: I love to travel, play games and photography ...
--->
+
