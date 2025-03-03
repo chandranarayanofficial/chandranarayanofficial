@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chandra Narayan</h1>
 <h3 align="center">A passionate BackendAPI developer from India</h3>
 
-- 🔭 I’m currently working on **APIs(RESTful,JSON,SOAP, GraphQL, gRPC),**
+- 🔭 I’m currently working on **APIs (RESTful,JSON,SOAP, GraphQL, gRPC),**
 
 - 🌱 I’m currently learning **Azure cloud servies**
 
